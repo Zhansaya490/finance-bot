@@ -102,7 +102,7 @@ If a category limit is exceeded:
 finance-bot/
 ├── finance_bot_fully_fixed.py
 ├── README.md
-└── screenshots/           # Add your screenshots for GitHub
+└── screenshots/          
 ```
 
 ---
