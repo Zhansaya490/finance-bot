@@ -27,7 +27,6 @@ This Telegram bot is a financial planning assistant developed using Python and t
 - Log income and expenses by category
 - Get daily or weekly budget summaries
 - Set budget limits and receive alerts
-- Export financial logs to Excel
 
 It’s perfect for students, freelancers, or anyone tracking personal finances in a simple and effective way.
 
@@ -74,9 +73,6 @@ python finance_bot_fully_fixed.py
 - `/config` — Set income and budget categories
 - `/log` — Log income or expense by category
 - `/summary` — View income, expenses, and balance
-- `/categorysummary` — See expenses broken down by category
-- `/export` — Export logs to Excel
-- `/setlimit` — Set a spending limit per category
 - `/notifyon` — Enable daily notifications
 - `/notifyoff` — Disable notifications
 
@@ -113,7 +109,6 @@ finance-bot/
 - [x] Daily & weekly summaries
 - [x] Category breakdowns
 - [x] Budget limit alerts
-- [x] Excel export
 - [x] Fully in Telegram, no extra apps!
 
 ---
